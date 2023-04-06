@@ -1,17 +1,30 @@
 * {
     font-family: 'Helvetica', 'Arial', sans-serif;
     background: beige;
+    text-align: left;
 }
 
 body {
     margin: 0 auto;
     max-width: 50em;
-    color: grey;
+    color: #222;
     line-height: 1.5;
     padding: 4em 1em;
 }
 
+h1 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: black;
+}
+
 h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: black;
+}
+
+h3 {
     margin-top: 1em;
     padding-top: 1em;
     color: black;
